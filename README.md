@@ -1,10 +1,3 @@
-# Olist-Project
-Project steps:
-1. Data cleaning using Excel
-2. database design
-3. SQL queries
-4. SSIS & Data warehouse design
-5. SSRS
-6. SSAS
-7. Power BI dashboards
-8. Tableau Dashboards
+Brazilian E-commerce Database
+
+Objective: This database is about 100,000 Orders with the product, customer, and review info. Using Microsoft SQL Server Management Studio and running queries on it, to get data insights that the decision makers of the companies can use to make their decision based on information extracted from the database.
